@@ -63,20 +63,4 @@ The **College Feedback System** is a database management system (DBMS) project t
 
 ---
 
-## 💻 Technologies Used
 
-- **Database:** MySQL
-- **Frontend (optional):** HTML, CSS
-- **Backend (optional):** PHP / Python / Node.js
-- **Tools:** XAMPP, phpMyAdmin, VS Code
-
----
-
-## 🧪 Sample SQL Queries
-
-### Create Table Example:
-```sql
-CREATE TABLE Department (
-  DeptID INT PRIMARY KEY,
-  DeptName VARCHAR(100) NOT NULL
-);
