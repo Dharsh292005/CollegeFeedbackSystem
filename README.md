@@ -1,4 +1,5 @@
 # 🎓 College Feedback System – DBMS Project
+![photo-collage png](https://github.com/user-attachments/assets/d49945f4-e6a3-4d5e-a1e4-03875227cefd)
 
 ## 📘 Project Overview
 
